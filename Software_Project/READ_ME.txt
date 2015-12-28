@@ -1,0 +1,1 @@
+All you need to do to run this file is to open the BDAA final 2 iPython Notebook and place the BDAA.json file in the working directory. Then, once this is done you can hit “shift +ENTER” to go cell-by-cell through the project.
